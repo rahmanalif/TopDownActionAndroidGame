@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86ecad38d10ac0b4fa059e987a2743cd, type: 3}
+  m_Name: GUNS
+  m_EditorClassIdentifier: 
+  ItemName: Struck
+  ItemPrice: 5
+  Thumbnail: {fileID: 2920547695714349933, guid: f64f780315fa12841b272acfacf25e07, type: 3}
+  Model: {fileID: 4036461870240078852, guid: 69b96be1310746b42b692a3557bcfcce, type: 3}
